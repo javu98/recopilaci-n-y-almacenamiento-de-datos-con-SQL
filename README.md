@@ -181,4 +181,4 @@ Esta información fue almacenada en el DataFrame `df_trips_la`.
 
 Los datos obtenidos y las tablas generadas están listos para un análisis más detallado en el archivo Python adjunto.
 
-[Análisis completo en Python](https://github.com/javu98/recopilación-y-almacenamiento-de-datos-con-SQL/blob/main/análisis_de_viajes_de_taxis_en_chicago.ipynb)
+[Análisis completo en Python](https://github.com/javu98/recopilaci-n-y-almacenamiento-de-datos-con-SQL/blob/main/an%C3%A1lisis_de_viajes_de_taxis_en_chicago.ipynb)
